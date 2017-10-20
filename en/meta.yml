@@ -1,6 +1,6 @@
-title: generic-theory-simple-colours
+title: RGB colours
 hero_image: images/banner.png
-description: generic-theory-simple-colours description
+description: A simple explanation of RGB colours
 theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2 # possible values: 1, 2 or 3
 listed: false
@@ -12,5 +12,3 @@ technologies: "electronics, sense-hat, physical computing, html/css, scratch, py
 site_areas:
 steps:
   - title: Introduction
-  - title: What you will need
-  - title: Step title
