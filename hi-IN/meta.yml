@@ -1,16 +1,16 @@
 ---
-title: RGB colours
+title: RGB रंग
 hero_image: images/banner.png
-description: A simple explanation of RGB colours
-theme: red
-duration: 2
+description: RGB रंगों की एक सरल व्याख्या
+theme: लाल
+duration: 0
 listed: false
 ingredient: true
 copyedit: true
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-interests: "animals, jokes/pranks, space, photography, nature/outside/weather, music/sound, physical computing, games, robots, geography"
+curriculum: निर्माता, डिज़ाइन-०, प्रोग्रामिंग-०, भौतिक-Comp-०, निर्माण-०, समुदाय-०
+interests: "जानवरों, चुटकुले/मज़ाक, अंतरिक्ष, फोटोग्राफी, प्रकृति/बाहर/मौसम, संगीत/ध्वनि, शारीरिक कंप्यूटिंग, खेल, रोबोट, भूगोल"
 technologies: "electronics, sense-hat, physical computing, html/css, scratch, python"
 site_areas:
 steps:
   - 
-    title: Introduction
+    title: परिचय
