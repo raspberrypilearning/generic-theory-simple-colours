@@ -1,16 +1,16 @@
 ---
 title: RGB colours
-hero_image: images/banner.png
+hero_image: imagens/banner.png
 description: A simple explanation of RGB colours
 theme: red
 duration: 2
 listed: false
 ingredient: true
 copyedit: true
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: criador, design-0, programação-0, phys-comp-0, manufacture-0, community-0
 interests: "animals, jokes/pranks, space, photography, nature/outside/weather, music/sound, physical computing, games, robots, geography"
 technologies: "electronics, sense-hat, physical computing, html/css, scratch, python"
 site_areas:
 steps:
   - 
-    title: Introduction
+    title: Introdução
