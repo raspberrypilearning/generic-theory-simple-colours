@@ -1,16 +1,16 @@
-When we want to represent a colour in a computer program, we can do this by defining the amounts of red, blue, and green that make up that colour. These amounts are usually stored as a single byte and therefore as a number between 0 and 255.
+Wenn wir eine Farbe in einem Computerprogramm wiedergeben wollen, können wir dies tun, indem wir die Mengen an Rot, Blau und Grün definieren, aus denen diese Farbe besteht. These amounts are usually stored as a single byte and therefore as a number between 0 and 255.
 
 ![RGB colours](images/RGB.gif)
 
-Here's a table showing some colour values:
+Hier ist eine Tabelle mit einigen Farbwerten:
 
-| Red | Green | Blue | Colour  |
-| --- | ----- | ---- | ------- |
-| 255 | 0     | 0    | Red     |
-| 0   | 255   | 0    | Green   |
-| 0   | 0     | 255  | Blue    |
-| 255 | 255   | 0    | Yellow  |
-| 255 | 0     | 255  | Magenta |
-| 0   | 255   | 255  | Cyan    |
+| Rot | Grün | Blau | Farbe   |
+| --- | ---- | ---- | ------- |
+| 255 | 0    | 0    | Rot     |
+| 0   | 255  | 0    | Grün    |
+| 0   | 0    | 255  | Blau    |
+| 255 | 255  | 0    | Gelb    |
+| 255 | 0    | 255  | Magenta |
+| 0   | 255  | 255  | Cyan    |
 
-You can find a nice [colour picker to play with at w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
+Du kannst einen praktischen [Farbwähler zum Experimentieren bei w3schools](https://www.w3schools.com/colors/colors_rgb.asp){: target = "_ blank"} finden.
