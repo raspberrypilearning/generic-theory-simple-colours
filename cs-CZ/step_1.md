@@ -1,16 +1,16 @@
-When we want to represent a colour in a computer program, we can do this by defining the amounts of red, blue, and green that make up that colour. These amounts are usually stored as a single byte and therefore as a number between 0 and 255.
+Když chceme v počítačovém programu reprezentovat barvu, můžeme to udělat tím, že definujeme množství červené, modré a zelené barvy, které tvoří tuto barvu. These amounts are usually stored as a single byte and therefore as a number between 0 and 255.
 
 ![RGB colours](images/RGB.gif)
 
-Here's a table showing some colour values:
+Zde je tabulka znázorňující některé hodnoty barev:
 
-| Red | Green | Blue | Colour  |
-| --- | ----- | ---- | ------- |
-| 255 | 0     | 0    | Red     |
-| 0   | 255   | 0    | Green   |
-| 0   | 0     | 255  | Blue    |
-| 255 | 255   | 0    | Yellow  |
-| 255 | 0     | 255  | Magenta |
-| 0   | 255   | 255  | Cyan    |
+| Červená | Zelená | Modrá | Barva     |
+| ------- | ------ | ----- | --------- |
+| 255     | 0      | 0     | Červená   |
+| 0       | 255    | 0     | Zelená    |
+| 0       | 0      | 255   | Modrá     |
+| 255     | 255    | 0     | Žlutá     |
+| 255     | 0      | 255   | Purpurová |
+| 0       | 255    | 255   | Azurová   |
 
-You can find a nice [colour picker to play with at w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
+Pěkný nástroj pro [výběr a tvorbu barev najdeš W3Schools](https://www.w3schools.com/colors/colors_rgb.asp){:target = „_ blank“}.
