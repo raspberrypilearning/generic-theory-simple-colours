@@ -1,16 +1,16 @@
-When we want to represent a colour in a computer program, we can do this by defining the amounts of red, blue, and green that make up that colour. These amounts are usually stored as a single byte and therefore as a number between 0 and 255.
+Când vrem să reprezentăm o culoare într-un program de calculator, putem face acest lucru prin definirea cantităților de roșu, albastru și verde care alcătuiesc acea culoare. These amounts are usually stored as a single byte and therefore as a number between 0 and 255.
 
 ![RGB colours](images/RGB.gif)
 
-Here's a table showing some colour values:
+Iată un tabel care prezintă valorile a câteva culori:
 
-| Red | Green | Blue | Colour  |
-| --- | ----- | ---- | ------- |
-| 255 | 0     | 0    | Red     |
-| 0   | 255   | 0    | Green   |
-| 0   | 0     | 255  | Blue    |
-| 255 | 255   | 0    | Yellow  |
-| 255 | 0     | 255  | Magenta |
-| 0   | 255   | 255  | Cyan    |
+| Roșu | Verde | Albastru | Culoare  |
+| ---- | ----- | -------- | -------- |
+| 255  | 0     | 0        | Roșu     |
+| 0    | 255   | 0        | Verde    |
+| 0    | 0     | 255      | Albastru |
+| 255  | 255   | 0        | Galben   |
+| 255  | 0     | 255      | Purpuriu |
+| 0    | 255   | 255      | Turcoaz  |
 
-You can find a nice [colour picker to play with at w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
+Puteți găsi un bun [selector de culoare la W3Schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_ blank"}.
