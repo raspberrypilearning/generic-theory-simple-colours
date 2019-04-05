@@ -2,7 +2,7 @@
 title: RGB colours
 hero_image: images/banner.png
 description: A simple explanation of RGB colours
-theme: red
+theme: 红色
 duration: 2
 listed: false
 ingredient: true
@@ -13,4 +13,4 @@ technologies: "electronics, sense-hat, physical computing, html/css, scratch, py
 site_areas:
 steps:
   - 
-    title: Introduction
+    title: 介绍
