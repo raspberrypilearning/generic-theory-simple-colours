@@ -1,6 +1,6 @@
 ---
 title: RGB colours
-hero_image: images/banner.png
+hero_image: images / banner.png
 description: A simple explanation of RGB colours
 theme: red
 duration: 2
@@ -13,4 +13,4 @@ technologies: "electronics, sense-hat, physical computing, html/css, scratch, py
 site_areas:
 steps:
   - 
-    title: Introduction
+    title: Bevezetés
