@@ -1,15 +1,15 @@
 ---
-title: RGB colours
+title: RGB වර්ණ
 hero_image: images / banner.png
-description: A simple explanation of RGB colours
+description: RGB වර්ණ පිළිබඳ සරල පැහැදිලි කිරීමක්
 theme: රතු
 duration: 2
 listed: false
 ingredient: true
 copyedit: true
 curriculum: නිර්මාණකරු, සැලසුම්-0, කේතන වැඩසටහන්-0, භෞතික-පරිගනක-0, නිෂ්පාදනය-0, ප්‍රජා-0
-interests: "animals, jokes/pranks, space, photography, nature/outside/weather, music/sound, physical computing, games, robots, geography"
-technologies: "electronics, sense-hat, physical computing, html/css, scratch, python"
+interests: "සතුන්, විහිළු / රැවටීම් , අවකාශය, ඡායාරූපකරණය, සොබාදහම / අවට / කාලගුණය, සංගීතය / ශබ්ද, භෞතික පරිගණකකරණය, ක්‍රීඩා, රොබෝවරු, භූගෝලය"
+technologies: "ඉලෙක්ට්‍රොනික්, සංවේදක-තොප්පිය, භෞතික පරිගණක කරණය , html / css, scratch, python"
 site_areas:
 steps:
   - 
