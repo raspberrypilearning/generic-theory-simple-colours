@@ -1,6 +1,6 @@
 Quando queremos representar uma cor num programa de computador, podemos fazer isso definindo as quantidades de vermelho, azul e verde que compõem essa cor. Esses valores geralmente são armazenados como um único byte e, portanto, como um número entre 0 e 255.
 
-![RGB colours](images/RGB.gif)
+![Cores RGB](images/RGB.gif)
 
 Aqui está uma tabela mostrando alguns valores de cores:
 
