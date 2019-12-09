@@ -1,6 +1,6 @@
-Când vrem să reprezentăm o culoare într-un program de calculator, putem face acest lucru prin definirea cantităților de roșu, albastru și verde care alcătuiesc acea culoare. These amounts are usually stored as a single byte and therefore as a number between 0 and 255.
+Când vrem să reprezentăm o culoare într-un program de calculator, putem face acest lucru prin definirea cantităților de roșu, albastru și verde care alcătuiesc acea culoare. Aceste sume sunt de obicei stocate ca un singur octet și, prin urmare, ca un număr între 0 și 255.
 
-![RGB colours](images/RGB.gif)
+![Culori RGB](images/RGB.gif)
 
 Iată un tabel care prezintă valorile a câteva culori:
 
