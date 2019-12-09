@@ -1,9 +1,9 @@
 ---
-title: RGB colours
+title: Cores RGB
 hero_image: images/banner.png
-description: A simple explanation of RGB colours
-theme: red
-duration: 2
+description: Uma explicação simples das cores RGB
+theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 2 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
