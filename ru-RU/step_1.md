@@ -2,7 +2,7 @@
 
 ![RGB цвета](images/RGB.gif)
 
-Приведенная ниже таблица показывает некоторые значения цветов:
+Приведенная ниже таблица показывает значения некоторых цветов:
 
 | Красный | Зеленый | Синий | Цвет      |
 | ------- | ------- | ----- | --------- |
@@ -13,4 +13,4 @@
 | 255     | 0       | 255   | Пурпурный |
 | 0       | 255     | 255   | Голубой   |
 
-You can find a nice [colour picker to play with at w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
+Вы можете поэкспериментировать с [подборщиком цветов от w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
