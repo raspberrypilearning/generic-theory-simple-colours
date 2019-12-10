@@ -1,16 +1,16 @@
-When we want to represent a colour in a computer program, we can do this by defining the amounts of red, blue, and green that make up that colour. These amounts are usually stored as a single byte and therefore as a number between 0 and 255.
+Когда мы хотим задать цвет в компьютерной программе, мы можем это сделать указав количество красного, синего и зеленых цветов, которые образуют этот цвет. Эти величины обычно представлены одним байтом и поэтому имеют значения от 0 до 255.
 
 ![RGB цвета](images/RGB.gif)
 
-Here's a table showing some colour values:
+Приведенная ниже таблица показывает некоторые значения цветов:
 
-| Red | Green | Blue | Colour  |
-| --- | ----- | ---- | ------- |
-| 255 | 0     | 0    | Red     |
-| 0   | 255   | 0    | Green   |
-| 0   | 0     | 255  | Blue    |
-| 255 | 255   | 0    | Yellow  |
-| 255 | 0     | 255  | Magenta |
-| 0   | 255   | 255  | Cyan    |
+| Красный | Зеленый | Синий | Цвет      |
+| ------- | ------- | ----- | --------- |
+| 255     | 0       | 0     | Красный   |
+| 0       | 255     | 0     | Зеленый   |
+| 0       | 0       | 255   | Синий     |
+| 255     | 255     | 0     | Желтый    |
+| 255     | 0       | 255   | Пурпурный |
+| 0       | 255     | 255   | Голубой   |
 
 You can find a nice [colour picker to play with at w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
