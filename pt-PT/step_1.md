@@ -13,4 +13,4 @@ Aqui está uma tabela mostrando alguns valores de cores:
 | 255      | 0     | 255  | Magenta  |
 | 0        | 255   | 255  | Ciano    |
 
-Você pode encontrar um bom seletor de cores [para experimentar no w3schools](https://www.w3schools.com/colors/colors_rgb.asp){: target = "_ blank"}.
+Pode encontrar um bom seletor de cores [para experimentar no w3schools](https://www.w3schools.com/colors/colors_rgb.asp){: target = "_ blank"}.
