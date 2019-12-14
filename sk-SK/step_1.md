@@ -13,4 +13,4 @@ Nasledujúca tabuľka obsahuje niektoré hodnoty farieb:
 | 255     | 0      | 255   | Purpurová |
 | 0       | 255    | 255   | Azúrová   |
 
-You can find a nice [colour picker to play with at w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
+Vyberač farieb s ktorým sa dá dobre experimentovať, nájdete na [webových stránkach w3schools](https://www.w3schools.com/colors/colors_rgb.asp) {: Target = "_ blank"}.
