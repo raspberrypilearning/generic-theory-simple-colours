@@ -4,13 +4,13 @@ Ak chceme vyjadriť nejakú farbu v počítačovom programe, môžeme to urobiť
 
 Nasledujúca tabuľka obsahuje niektoré hodnoty farieb:
 
-| Červená | Zelená | Modrá | Farba   |
-| ------- | ------ | ----- | ------- |
-| 255     | 0      | 0     | Červená |
-| 0       | 255    | 0     | Green   |
-| 0       | 0      | 255   | Blue    |
-| 255     | 255    | 0     | Yellow  |
-| 255     | 0      | 255   | Magenta |
-| 0       | 255    | 255   | Cyan    |
+| Červená | Zelená | Modrá | Farba     |
+| ------- | ------ | ----- | --------- |
+| 255     | 0      | 0     | Červená   |
+| 0       | 255    | 0     | Zelená    |
+| 0       | 0      | 255   | Modrá     |
+| 255     | 255    | 0     | Žltá      |
+| 255     | 0      | 255   | Purpurová |
+| 0       | 255    | 255   | Azúrová   |
 
 You can find a nice [colour picker to play with at w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
