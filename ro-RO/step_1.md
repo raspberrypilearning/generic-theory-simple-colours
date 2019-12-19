@@ -13,4 +13,4 @@ Iată un tabel care prezintă valorile a câteva culori:
 | 255  | 0     | 255      | Purpuriu |
 | 0    | 255   | 255      | Turcoaz  |
 
-Puteți găsi un bun [selector de culoare la W3Schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_ blank"}.
+Poți găsi un [selector bun de culoare pe W3Schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_ blank"}.
