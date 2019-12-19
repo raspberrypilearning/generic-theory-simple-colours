@@ -1,15 +1,15 @@
 ---
-title: Modelul de culoare RGB (rosu-verde-albastru)
+title: Culori RGB
 hero_image: images/banner.png
 description: O explicație simplă a culorilor RGB
-theme: roșu #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
-curriculum: creator, design-0, programare-0, fiz-comp-0, fabricare-0, comunitate-0
-interests: "animale, glume/farse, spațiu, fotografie, natură/exterio /vreme, muzică/sunet, prototipuri, jocuri, roboți, geografie"
-technologies: "electronice, sense-hat, prototipuri, html/css, scratch, python"
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+interests: "animals, jokes/pranks, space, photography, nature/outside/weather, music/sound, physical computing, games, robots, geography"
+technologies: "electronics, sense-hat, physical computing, html/css, scratch, python"
 site_areas:
 steps:
   - 
