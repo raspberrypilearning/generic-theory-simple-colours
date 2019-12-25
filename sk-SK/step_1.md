@@ -2,7 +2,7 @@ Ak chceme vyjadriť nejakú farbu v počítačovom programe, môžeme to urobiť
 
 ![RGB farby](images/RGB.gif)
 
-Nasledujúca tabuľka obsahuje niektoré hodnoty farieb:
+Nasledujúca tabuľka obsahuje hodnoty niektorých farieb:
 
 | Červená | Zelená | Modrá | Farba     |
 | ------- | ------ | ----- | --------- |
@@ -13,4 +13,4 @@ Nasledujúca tabuľka obsahuje niektoré hodnoty farieb:
 | 255     | 0      | 255   | Purpurová |
 | 0       | 255    | 255   | Azúrová   |
 
-Vyberač farieb s ktorým sa dá dobre experimentovať, nájdete na [webových stránkach w3schools](https://www.w3schools.com/colors/colors_rgb.asp) {: Target = "_ blank"}.
+Vyberač farieb s ktorým sa dá dobre experimentovať, nájdete na [webových stránkach w3schools](https://www.w3schools.com/colors/colors_rgb.asp) {: target = "_ blank"}.
