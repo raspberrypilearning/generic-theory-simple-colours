@@ -13,4 +13,4 @@ Bir bilgisayar programında bir rengi ifade etmek istediğimizde bunu, rengi olu
 | 255     | 0     | 255  | Eflatun   |
 | 0       | 255   | 255  | Camgöbeği |
 
-[W3schools'da oynayabileceğiniz güzel bir renk seçici bulabilirsiniz.](https://www.w3schools.com/colors/colors_rgb.asp) {:target="_blank"}.
+[W3schools'da oynayabileceğiniz güzel bir renk seçici bulabilirsiniz.](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
