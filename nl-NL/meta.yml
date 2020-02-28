@@ -1,15 +1,15 @@
 ---
-title: RGB kleuren
-hero_image: afbeeldingen / banner.png
+title: RGB-kleuren
+hero_image: images/banner.png
 description: Een eenvoudige uitleg van RGB-kleuren
-theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: rood #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-interests: "dieren, grappen / grappen, ruimte, fotografie, natuur / buiten / weer, muziek / geluid, fysiek computergebruik, games, robots, geografie"
-technologies: "elektronica, sense-hat, fysiek computergebruik, html / css, scratch, python"
+interests: "dieren, grappen/grapjes, ruimte, fotografie, natuur/buiten/weer, muziek, physical computing, games, robots, geografie"
+technologies: "elektronica, sense-hat, physical computing, html/css, scratch, python"
 site_areas:
 steps:
   - 
