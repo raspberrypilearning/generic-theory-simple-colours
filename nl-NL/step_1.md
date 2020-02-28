@@ -1,6 +1,6 @@
-Wanneer we een kleur in een computerprogramma willen weergeven, kunnen we dit doen door de hoeveelheden rood, blauw en groen waaruit die kleur bestaat te definiëren. These amounts are usually stored as a single byte and therefore as a number between 0 and 255.
+Wanneer we een kleur in een computerprogramma willen weergeven, kunnen we dit doen door de hoeveelheden rood, blauw en groen waaruit die kleur bestaat te definiëren. Deze hoeveelheden worden meestal opgeslagen als een enkele byte en daarom als een getal tussen 0 en 255.
 
-![RGB colours](images/RGB.gif)
+![RGB kleuren](images/RGB.gif)
 
 Hier is een tabel met enkele kleurwaarden:
 
