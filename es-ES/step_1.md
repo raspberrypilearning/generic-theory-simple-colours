@@ -1,6 +1,6 @@
-Cuando queremos representar un color en un programa de ordenador, podemos hacerlo definiendo las cantidades de rojo, azul y verde que componen ese color. These amounts are usually stored as a single byte and therefore as a number between 0 and 255.
+Cuando queremos representar un color en un programa de ordenador, podemos hacerlo definiendo las cantidades de rojo, azul y verde que componen ese color. Estas cantidades se encuentran usualmente almacenadas en un solo byte, y por lo tanto, en un número entre 0 y 255.
 
-![RGB colours](images/RGB.gif)
+![Colores RGB](images/RGB.gif)
 
 Aquí hay una tabla que muestra algunos valores de color:
 
