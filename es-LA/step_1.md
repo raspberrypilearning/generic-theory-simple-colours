@@ -1,4 +1,4 @@
-When we want to represent a colour in a computer program, we can do this by defining the amounts of red, blue, and green that make up that colour. These amounts are usually stored as a single byte and therefore as a number between 0 and 255.
+Cuando queremos poner un color en el programa de computadora, podemos hacerlo definiendo la cantidad de rojo y verde que componen ese color. These amounts are usually stored as a single byte and therefore as a number between 0 and 255.
 
 ![RGB colours](images/RGB.gif)
 
