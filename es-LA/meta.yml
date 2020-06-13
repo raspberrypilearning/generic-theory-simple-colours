@@ -1,16 +1,16 @@
 ---
-title: RGB colours
+title: Colores RGB
 hero_image: images/banner.png
-description: A simple explanation of RGB colours
-theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+description: Una explicación sencilla de los colores RGB
+theme: rojo #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-interests: "animals, jokes/pranks, space, photography, nature/outside/weather, music/sound, physical computing, games, robots, geography"
-technologies: "electronics, sense-hat, physical computing, html/css, scratch, python"
+interests: "animales, bromas/chistes, espacio, fotografía, naturaleza/exteriores/clima, música/sonido, computación física, juegos, robots, geografía"
+technologies: "electrónicos, Sense Hat, computación física, html/css, scratch, python"
 site_areas:
 steps:
   - 
-    title: Introduction
+    title: Introducción
