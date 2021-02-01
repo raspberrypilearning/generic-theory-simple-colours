@@ -1,8 +1,8 @@
 ---
-title: RGB colours
+title: ಆರ್ ಜಿ ಬಿ (RGB) ಬಣ್ಣಗಳು
 hero_image: images/banner.png
-description: A simple explanation of RGB colours
-theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+description: ಆರ್ಜಿಬಿ ಬಣ್ಣಗಳ ಸರಳ ವಿವರಣೆ
+theme: ಕೆಂಪು #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
@@ -13,4 +13,4 @@ technologies: "electronics, sense-hat, physical computing, html/css, scratch, py
 site_areas:
 steps:
   - 
-    title: Introduction
+    title: ಪರಿಚಯ
