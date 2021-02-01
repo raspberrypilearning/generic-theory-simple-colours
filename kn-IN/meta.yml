@@ -7,9 +7,9 @@ duration: 2 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: ಸೃಷ್ಟಿಕರ್ತ, ವಿನ್ಯಾಸ -0, ಪ್ರೋಗ್ರಾಮಿಂಗ್ -0, ಭೌತಿಕ-ಕಂಪ್ -0, ಉತ್ಪಾದನೆ -0, ಸಮುದಾಯ -0
 interests: "animals, jokes/pranks, space, photography, nature/outside/weather, music/sound, physical computing, games, robots, geography"
-technologies: "electronics, sense-hat, physical computing, html/css, scratch, python"
+technologies: "ಎಲೆಕ್ಟ್ರಾನಿಕ್ಸ್, ಸೆನ್ಸ್-ಹ್ಯಾಟ್, ಫಿಸಿಕಲ್ ಕಂಪ್ಯೂಟಿಂಗ್, HTML / CSS, ಸ್ಕ್ರ್ಯಾಚ್, ಪೈಥಾನ್"
 site_areas:
 steps:
   - 
