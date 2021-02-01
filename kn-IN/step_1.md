@@ -13,4 +13,4 @@
 | 255   | 0     | 255   | ಕೆನ್ನೇರಿಳೆ |
 | 0     | 255   | 255   | ವೈಡೂರ್ಯ    |
 
-You can find a nice [colour picker to play with at w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
+ನೀವು ಸುಂದರವಾದದನ್ನು ಬಣ್ಣವನ್ನು ಇಲ್ಲಿ ಕಾಣಬಹುದು [W3Schools ನಲ್ಲಿ ಆಡಲು ಬಣ್ಣದ ಪಿಕ್ಕರ್](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
