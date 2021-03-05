@@ -1,6 +1,6 @@
 عندما نريد تمثيل لون في برنامج على جهاز الحاسب الآلي، يمكننا القيام بذلك عن طريق تحديد كميات اللون الأحمر والأزرق والأخضر التي تشكل ذلك اللون. These amounts are usually stored as a single byte and therefore as a number between 0 and 255.
 
-![RGB colours](images/RGB.gif)
+![ألوان RGB](images/RGB.gif)
 
 في ما يلي جدول يعرض بعض قيم الألوان:
 
