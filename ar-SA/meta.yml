@@ -1,15 +1,15 @@
 ---
 title: ألوان RGB
 hero_image: images/banner.png
-description: A simple explanation of RGB colours
+description: شرح بسيط لألوان RGB
 theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-interests: "animals, jokes/pranks, space, photography, nature/outside/weather, music/sound, physical computing, games, robots, geography"
-technologies: "electronics, sense-hat, physical computing, html/css, scratch, python"
+interests: "الحيوانات، النكات/الحمامات، المساحة، التصوير الفوتوغرافي، الطبيعة/الخارجية/الطقس، الموسيقى/الصوت، الحوسبة الفيزيائية، الألعاب، الروبوتات، الجغرافيا"
+technologies: "الإلكترونيات ، قبعة الإحساس ، الحوسبة الفيزيائية ، html / css ، scratch ، python"
 site_areas:
 steps:
   - 
