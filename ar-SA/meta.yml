@@ -2,7 +2,7 @@
 title: ألوان RGB
 hero_image: images/banner.png
 description: شرح بسيط لألوان RGB
-theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: أحمر #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
