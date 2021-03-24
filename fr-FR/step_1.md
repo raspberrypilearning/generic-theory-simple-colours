@@ -1,4 +1,4 @@
-Lorsque nous voulons représenter une couleur dans un programme informatique, nous pouvons le faire en définissant les quantités de rouge, de bleu et de vert qui composent cette couleur. Ces quantités sont généralement stockés en un seul octet et donc en un nombre compris entre 0 et 255.
+Lorsque nous voulons représenter une couleur dans un programme informatique, nous pouvons le faire en définissant les quantités de rouge, de bleu et de vert qui composent cette couleur. Ces quantités sont généralement stockées en un seul octet et donc en un nombre compris entre 0 et 255.
 
 ![Les couleurs RGB](images/RGB.gif)
 
