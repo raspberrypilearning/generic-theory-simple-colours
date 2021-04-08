@@ -7,8 +7,8 @@ duration: 2 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-interests: "animals, jokes/pranks, space, photography, nature/outside/weather, music/sound, physical computing, games, robots, geography"
+curriculum: क्रिएटर, डिझाईन -०, प्रोग्रामिंग -०, फिजिकल कम्प्युटिंग -०, मनुफॅक्चर -०, कम्युनिटी -०
+interests: "प्राणी, विनोद / खोड्या, जागा, छायाचित्रण, निसर्ग / बाहेरील / हवामान, संगीत / आवाज, भौतिक संगणन, खेळ, रोबोट्स, भूगोल"
 technologies: "electronics, sense-hat, physical computing, html/css, scratch, python"
 site_areas:
 steps:
