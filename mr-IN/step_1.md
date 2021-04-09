@@ -1,4 +1,4 @@
-When we want to represent a colour in a computer program, we can do this by defining the amounts of red, blue, and green that make up that colour. These amounts are usually stored as a single byte and therefore as a number between 0 and 255.
+जेव्हा आम्हाला एखाद्या कॉम्प्यूटर प्रोग्राममध्ये रंग दाखवायचे असतील तर आम्ही त्या रंगात लाल, निळे आणि हिरव्या रंगांचे प्रमाण निश्चित करून हे करू शकतो. These amounts are usually stored as a single byte and therefore as a number between 0 and 255.
 
 ![RGB colours](images/RGB.gif)
 
