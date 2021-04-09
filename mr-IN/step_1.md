@@ -13,4 +13,4 @@
 | 255 | 0     | 255  | मॅजेन्टा |
 | 0   | 255   | 255  | निळसर    |
 
-You can find a nice [colour picker to play with at w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
+आपण [colour picker to play with at w3schools](https://www.w3schools.com/colors/colors_rgb.asp) वर रंगाबरोबर खेळू शकतो.
