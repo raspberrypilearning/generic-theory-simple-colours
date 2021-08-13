@@ -3,7 +3,7 @@ title: RGB रंग
 hero_image: images/banner.png
 description: RGB रंगों की एक सरल व्याख्या
 theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 0 #possible values: 1, 2 or 3
+duration: 2 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
@@ -13,4 +13,4 @@ technologies: "electronics, sense-hat, physical computing, html/css, scratch, py
 site_areas:
 steps:
   - 
-    title: परिचय
+    title: भूमिका
