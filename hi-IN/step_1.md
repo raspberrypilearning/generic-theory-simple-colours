@@ -13,4 +13,4 @@
 | 255 | 0   | 255  | लाल बैंगनी (Magenta) |
 | 0   | 255 | 255  | हरिनील (Cyan)        |
 
-आप w3schools पर खेलने के लिए एक अच्छा [रंग पिकर पा सकते हैं](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}।
+आप खेलने के लिए एक अच्छा [रंग पिकर पा सकते हैं w3schools पर](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}।
