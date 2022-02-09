@@ -1,7 +1,7 @@
 ---
 title: ಆರ್ ಜಿ ಬಿ (RGB) ಬಣ್ಣಗಳು
 hero_image: images/banner.png
-description: ಆರ್ಜಿಬಿ ಬಣ್ಣಗಳ ಸರಳ ವಿವರಣೆ
+description: ಆರ್ಜಿಬಿ (RGB) ಬಣ್ಣಗಳ ಸರಳ ವಿವರಣೆ
 theme: ಕೆಂಪು #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2 #possible values: 1, 2 or 3
 listed: false
