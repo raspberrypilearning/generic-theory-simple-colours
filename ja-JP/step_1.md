@@ -1,16 +1,16 @@
-When we want to represent a colour in a computer program, we can do this by defining the amounts of red, blue, and green that make up that colour. These amounts are usually stored as a single byte and therefore as a number between 0 and 255.
+コンピュータプログラムで色を表現したい場合、その色を構成する赤、青、緑の量を定義することでこれを行うことができます。 これらの量は通常、1バイトとして格納されるため、0〜255の数値になります。
 
 ![RGB colours](images/RGB.gif)
 
-Here's a table showing some colour values:
+以下は、いくつかの色の値を示す表です。
 
-| 赤   | 緑   | Blue | Colour  |
-| --- | --- | ---- | ------- |
-| 255 | 0   | 0    | 赤       |
-| 0   | 255 | 0    | 緑       |
-| 0   | 0   | 255  | Blue    |
-| 255 | 255 | 0    | Yellow  |
-| 255 | 0   | 255  | Magenta |
-| 0   | 255 | 255  | Cyan    |
+| 赤   | 緑   | 青   | 色       |
+| --- | --- | --- | ------- |
+| 255 | 0   | 0   | 赤       |
+| 0   | 255 | 0   | 緑       |
+| 0   | 0   | 255 | 青       |
+| 255 | 255 | 0   | 黄       |
+| 255 | 0   | 255 | Magenta |
+| 0   | 255 | 255 | Cyan    |
 
 You can find a nice [colour picker to play with at w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
