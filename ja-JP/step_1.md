@@ -13,4 +13,4 @@
 | 255 | 0   | 255 | マゼンタ |
 | 0   | 255 | 255 | シアン  |
 
-[w3schoolsに楽しく遊べる色取り出し器があります](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}。
+[w3schoolsに楽しく遊べるカラーピッカー](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}があります。
