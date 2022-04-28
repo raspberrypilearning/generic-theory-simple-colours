@@ -13,4 +13,4 @@ Dyma dabl yn dangos rhai gwerthoedd lliw:
 | 255  | 0      | 255  | Magenta   |
 | 0    | 255    | 255  | Gwyrddlas |
 
-You can find a nice [colour picker to play with at w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
+Fe allwch chi ddod o hyd i [ddewisydd lliw da er mwyn arbrofi yn w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
