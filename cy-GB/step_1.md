@@ -1,4 +1,4 @@
-Pan fyddwn eisiau cynrychioli lliw mewn rhaglen gyfrifiadurol, fe allwn ni wneud hyn drwy ddiffinio faint o goch, glas a gwyrdd sy'n gwneud y lliw hwnnw. Mae hyn yn cael ei storio fel un beit fel arfer, ac felly fel rhif rhwng 0 a 255.
+When we want to represent a colour in a computer program, we can do this by defining the amounts of red, blue, and green that are combined to make up that colour. These amounts are stored as a number between 0 and 255.
 
 ![Lliwiau RGB](images/RGB.gif)
 
