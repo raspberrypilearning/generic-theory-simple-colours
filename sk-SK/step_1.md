@@ -1,4 +1,4 @@
-Ak chceme vyjadriť nejakú farbu v počítačovom programe, môžeme to urobiť definovaním množstva červenej, modrej a zelenej, ktoré túto farbu tvoria. Tieto množstvá sa zvyčajne ukladajú ako jeden bajt a preto sú vyjadrené číslom od 0 do 255.
+When we want to represent a colour in a computer program, we can do this by defining the amounts of red, blue, and green that are combined to make up that colour. These amounts are stored as a number between 0 and 255.
 
 ![RGB farby](images/RGB.gif)
 
