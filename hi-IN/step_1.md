@@ -1,4 +1,4 @@
-जब हम एक कंप्यूटर प्रोग्राम में एक रंग का प्रतिनिधित्व करना चाहते हैं, तो हम लाल, नीले और हरे रंग की मात्रा को परिभाषित करके उस रंग को बना सकते हैं । इन मात्राओं को आमतौर पर एक बाइट के रूप में संग्रहीत किया जाता है और इसलिए 0 और 255 के बीच की संख्या के रूप में संग्रहीत किया जाता है।
+When we want to represent a colour in a computer program, we can do this by defining the amounts of red, blue, and green that are combined to make up that colour. These amounts are stored as a number between 0 and 255.
 
 ![RGB रंग](images/RGB.gif)
 
