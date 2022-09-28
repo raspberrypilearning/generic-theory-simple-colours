@@ -1,4 +1,4 @@
-जेव्हा आम्हाला एखाद्या कॉम्प्यूटर प्रोग्राममध्ये रंग दाखवायचे असतील तर आम्ही त्या रंगात लाल, निळे आणि हिरव्या रंगांचे प्रमाण निश्चित करून हे करू शकतो. हे प्रमाण सामान्यत: एक बाइट म्हणून साठवले जाते आणि म्हणून 0 ते 255 दरम्यान साठवले जातात.
+When we want to represent a colour in a computer program, we can do this by defining the amounts of red, blue, and green that are combined to make up that colour. These amounts are stored as a number between 0 and 255.
 
 ![RGB रंग](images/RGB.gif)
 
