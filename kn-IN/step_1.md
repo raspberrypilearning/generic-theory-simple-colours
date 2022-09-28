@@ -1,4 +1,4 @@
-ನಾವು ಕಂಪ್ಯೂಟರ್ ಪ್ರೋಗ್ರಾಂನಲ್ಲಿ(program) ಬಣ್ಣವನ್ನು ಪ್ರತಿನಿಧಿಸಲು ಬಯಸಿದಾಗ, ಆ ಬಣ್ಣವನ್ನು ರೂಪಿಸುವ ಕೆಂಪು, ನೀಲಿ ಮತ್ತು ಹಸಿರು ಪ್ರಮಾಣವನ್ನು ವ್ಯಾಖ್ಯಾನಿಸುವ ಮೂಲಕ ನಾವು ಇದನ್ನು ಮಾಡಬಹುದು. ಈ ಪ್ರಮಾಣಗಳನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಒಂದೇ ಬೈಟ್‌ನಂತೆ ಸಂಗ್ರಹಿಸಲಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ ಈ ಪ್ರಮಾಣವು 0 ಮತ್ತು 255 ರ ನಡುವಿನ ಸಂಖ್ಯೆಯಾಗಿ ಸಂಗ್ರಹಿಸಲಾಗುತ್ತದೆ.
+When we want to represent a colour in a computer program, we can do this by defining the amounts of red, blue, and green that are combined to make up that colour. These amounts are stored as a number between 0 and 255.
 
 ![ಆರ್ ಜಿ ಬಿ (RGB) ಬಣ್ಣಗಳು](images/RGB.gif)
 
