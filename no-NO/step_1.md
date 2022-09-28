@@ -1,4 +1,4 @@
-Når vi ønsker å representere en farge i et dataprogram, kan vi gjøre dette ved å definere mengden rød, blå og grønn som utgjør fargen. Disse mengdene lagres vanligvis som en enkel byte og derfor som et tall mellom 0 og 255.
+When we want to represent a colour in a computer program, we can do this by defining the amounts of red, blue, and green that are combined to make up that colour. These amounts are stored as a number between 0 and 255.
 
 ![RGB-farger](images/RGB.gif)
 
