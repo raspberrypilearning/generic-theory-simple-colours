@@ -1,6 +1,6 @@
-When we want to represent a colour in a computer program, we can do this by defining the amounts of red, blue, and green that are combined to make up that colour. These amounts are stored as a number between 0 and 255.
+Ha egy számítógépes programban egy színt akarunk ábrázolni, akkor ezt úgy tehetjük meg, hogy meghatározzuk a színt alkotó vörös, kék és zöld mennyiségeket. Ezeket a mennyiségeket egy 0 és 255 közötti számként tároljuk.
 
-![RGB colours](images/RGB.gif)
+![RGB-színek](images/RGB.gif)
 
 Íme egy táblázat, amely néhány színértéket mutat be:
 
