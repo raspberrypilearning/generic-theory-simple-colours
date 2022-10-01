@@ -1,4 +1,4 @@
-When we want to represent a colour in a computer program, we can do this by defining the amounts of red, blue, and green that are combined to make up that colour. These amounts are stored as a number between 0 and 255.
+Όταν θέλουμε να αναπαραστήσουμε ένα χρώμα σε ένα πρόγραμμα υπολογιστή, μπορούμε να το κάνουμε αυτό καθορίζοντας τις τιμές κόκκινου, μπλε και πράσινου που συνθέτουν αυτό το χρώμα. Αυτά τα ποσά αποθηκεύονται ως αριθμοί μεταξύ 0 και 255.
 
 ![Χρώματα RGB](images/RGB.gif)
 
