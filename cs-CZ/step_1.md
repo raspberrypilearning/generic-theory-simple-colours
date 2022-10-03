@@ -1,6 +1,6 @@
-Když chceme v počítačovém programu reprezentovat barvu, můžeme to udělat tak, že definujeme množství červené, modré a zelené barvy, které dohromady tuto barvu tvoří. These amounts are stored as a number between 0 and 255.
+Když chceme v počítačovém programu reprezentovat barvu, můžeme to udělat tak, že definujeme množství červené, modré a zelené barvy, které dohromady tuto barvu tvoří. Toto množství je uloženo pod číslem v rozmezí 0 až 255.
 
-![RGB colours](images/RGB.gif)
+![Barvy RGB](images/RGB.gif)
 
 Zde je tabulka znázorňující některé hodnoty barev:
 
@@ -13,4 +13,4 @@ Zde je tabulka znázorňující některé hodnoty barev:
 | 255     | 0      | 255   | Purpurová |
 | 0       | 255    | 255   | Azurová   |
 
-Pěkný nástroj pro [výběr a tvorbu barev najdeš W3Schools](https://www.w3schools.com/colors/colors_rgb.asp){:target = „_ blank“}.
+Pěkný nástroj pro [výběr a tvorbu barev najdeš na W3Schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
