@@ -1,4 +1,4 @@
-When we want to represent a colour in a computer program, we can do this by defining the amounts of red, blue, and green that are combined to make up that colour. These amounts are stored as a number between 0 and 255.
+Když chceme v počítačovém programu reprezentovat barvu, můžeme to udělat tak, že definujeme množství červené, modré a zelené barvy, které dohromady tuto barvu tvoří. These amounts are stored as a number between 0 and 255.
 
 ![RGB colours](images/RGB.gif)
 
