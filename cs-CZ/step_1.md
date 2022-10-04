@@ -1,4 +1,4 @@
-Když chceme v počítačovém programu reprezentovat barvu, můžeme to udělat tak, že definujeme množství červené, modré a zelené barvy, které dohromady tuto barvu tvoří. Toto množství je uloženo pod číslem v rozmezí 0 až 255.
+Když chceme v počítačovém programu reprezentovat barvu, můžeme to udělat tak, že definujeme poměr červené, modré a zelené barvy, z kterého se tato barva skládá. Tato hodnota je uložena pod číslem v rozmezí 0 až 255.
 
 ![Barvy RGB](images/RGB.gif)
 
