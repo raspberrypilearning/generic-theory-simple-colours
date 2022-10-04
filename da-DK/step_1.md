@@ -1,6 +1,6 @@
-When we want to represent a colour in a computer program, we can do this by defining the amounts of red, blue, and green that are combined to make up that colour. These amounts are stored as a number between 0 and 255.
+Når vi ønsker at repræsentere en farve i et computerprogram, kan vi gøre dette ved at definere den kombination af rød, blå, og grøn, der udgør farven. Disse værdier gemmes som et tal mellem 0 og 255.
 
-![RGB colours](images/RGB.gif)
+![RGB farver](images/RGB.gif)
 
 Her er en tabel med nogle farveværdier:
 
@@ -13,4 +13,4 @@ Her er en tabel med nogle farveværdier:
 | 255 | 0    | 255 | Magenta |
 | 0   | 255  | 255 | Cyan    |
 
-Du kan finde en flot [farvevælger til at lege med hos w3schools](https://www.w3schools.com/colors/colors_rgb.asp){: target = "_ blank"}.
+Du kan finde en sjov [-farvevælger at lege med på w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
