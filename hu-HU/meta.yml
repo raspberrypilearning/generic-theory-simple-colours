@@ -1,6 +1,6 @@
 ---
 title: RGB-színek
-hero_image: images / banner.png
+hero_image: images/banner.png
 description: Az RGB-színek egyszerű magyarázata
 theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2 #possible values: 1, 2 or 3
