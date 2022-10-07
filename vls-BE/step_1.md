@@ -1,6 +1,6 @@
-When we want to represent a colour in a computer program, we can do this by defining the amounts of red, blue, and green that are combined to make up that colour. These amounts are stored as a number between 0 and 255.
+Als we een kleur willen voorstellen in een computerprogramma, kunnen we dat doen door de hoeveelheden rood, blauw en groen die deze kleur bepalen te definiëren. Deze hoeveelheden worden opgeslagen als een getal tussen 0 en 255.
 
-![RGB colours](images/RGB.gif)
+![RGB-kleuren](images/RGB.gif)
 
 Hier zie je een tabel met enkele kleurwaardes:
 
