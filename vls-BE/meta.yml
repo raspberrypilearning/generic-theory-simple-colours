@@ -1,7 +1,7 @@
 ---
-title: RGB colours
+title: RGB-kleuren
 hero_image: images/banner.png
-description: A simple explanation of RGB colours
+description: Een eenvoudige uitleg van RGB-kleuren
 theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2 #possible values: 1, 2 or 3
 listed: false
@@ -13,4 +13,4 @@ technologies: "electronics, sense-hat, physical computing, html/css, scratch, py
 site_areas:
 steps:
   - 
-    title: Introductie
+    title: Inleiding
