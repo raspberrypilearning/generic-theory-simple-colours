@@ -1,6 +1,6 @@
-When we want to represent a colour in a computer program, we can do this by defining the amounts of red, blue, and green that are combined to make up that colour. These amounts are stored as a number between 0 and 255.
+Kun haluamme esittää väriä tietokoneohjelmassa, voimme tehdä tämän määrittämällä punaisen, sinisen ja vihreän määrät, jotka yhdistettynä muodostavat kyseisen värin. Nämä määrät talletetaan numerona väliltä 0 ja 255.
 
-![RGB colours](images/RGB.gif)
+![RGB-värit](images/RGB.gif)
 
 Seuraavassa on taulukko, jossa esitetään joitain väriarvoja:
 
