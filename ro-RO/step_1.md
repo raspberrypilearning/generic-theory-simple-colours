@@ -1,4 +1,4 @@
-Când vrem să reprezentăm o culoare într-un program de calculator, putem face acest lucru prin definirea cantităților de roșu, albastru și verde care alcătuiesc acea culoare. Aceste sume sunt de obicei stocate ca un singur octet și, prin urmare, ca un număr între 0 și 255.
+Când vrem să reprezentăm o culoare într-un program de calculator, putem face acest lucru prin definirea cantităților de roșu, albastru și verde care alcătuiesc acea culoare. Aceste cantități sunt stocate ca un număr între 0 şi 255.
 
 ![Culori RGB](images/RGB.gif)
 
