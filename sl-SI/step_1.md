@@ -1,6 +1,6 @@
-When we want to represent a colour in a computer program, we can do this by defining the amounts of red, blue, and green that are combined to make up that colour. These amounts are stored as a number between 0 and 255.
+Ko želimo predstaviti barvo v računalniškem programu, lahko to naredimo tako, da določimo količine rdeče, zelene in modre barve, ki skupaj tvorijo to barvo. Te količine so zapisane kot števila med vključno 0 in 255.
 
-![RGB colours](images/RGB.gif)
+![RGB barve](images/RGB.gif)
 
 Tukaj je tabela z nekaj barvnimi vrednostmi:
 
