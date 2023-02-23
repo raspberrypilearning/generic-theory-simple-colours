@@ -1,16 +1,16 @@
-When we want to represent a colour in a computer program, we can do this by defining the amounts of red, blue, and green that are combined to make up that colour. These amounts are stored as a number between 0 and 255.
+Коли ми хочемо зобразити колір у комп'ютерній програмі, ми можемо зробити це, вказавши кількість червоного, синього та зеленого кольорів, які поєднуються для створення цього кольору. Ці значення зберігаються у вигляді числа від 0 до 255.
 
-![RGB colours](images/RGB.gif)
+![RGB кольори](images/RGB.gif)
 
-Here's a table showing some colour values:
+Ось таблиця з деякими значеннями кольорів:
 
-| Червоний | Зелений | Синій | Colour   |
-| -------- | ------- | ----- | -------- |
-| 255      | 0       | 0     | Червоний |
-| 0        | 255     | 0     | Зелений  |
-| 0        | 0       | 255   | Синій    |
-| 255      | 255     | 0     | Жовтий   |
-| 255      | 0       | 255   | Magenta  |
-| 0        | 255     | 255   | Cyan     |
+| Червоний | Зелений | Синій | Колір     |
+| -------- | ------- | ----- | --------- |
+| 255      | 0       | 0     | Червоний  |
+| 0        | 255     | 0     | Зелений   |
+| 0        | 0       | 255   | Синій     |
+| 255      | 255     | 0     | Жовтий    |
+| 255      | 0       | 255   | Малиновий |
+| 0        | 255     | 255   | Бірюзовий |
 
-You can find a nice [colour picker to play with at w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
+Тут можна знайти хороший [підбирач кольорів для гри у w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
